@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScriptsYouTube
-- 👀 I’m interested in python code
-- 🌱 I’m currently learning in quadrobics
-- 💞️ I’m looking to collaborate on discord "https://discord.gg/e3NfUffnkt"
-- 📫 How to reach me - Find me on discord (Username: nazarobikakvadrobika)
+- 👀 I’m interested in Python code
+- 🌱 I’m currently learning on Python
+- 💞️ I’m looking to collaborate on discord "https://discord.gg/Dm5tdu7Afz" with making mods in Mindustry!
+- 📫 How to reach me - Find me on discord (Username: bedteam_nazarobika)
